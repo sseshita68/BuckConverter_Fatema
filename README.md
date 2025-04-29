@@ -7,6 +7,9 @@ Objective:
 To design and simulate an open-loop buck converter that converts a fixed 12V input into a regulated 5V output.
 
 This type of converter is commonly used in:
+Motor drive
+
+Mobile charger
 
 Renewable energy systems
 
